@@ -1,0 +1,50 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: white;
+    border: 3px solid #0000FF;
+}
+h1 {
+    color: #0000FF;
+    font-size: 165%;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: .5em;
+}
+h2 {
+    margin: 1em 0 .5em;
+    font-size: 120%;
+}
+label {
+    float: left;
+    width: 10em;  
+}
+/* the styles for classes */
+.entry {
+    margin-bottom: .5em;
+    width: 10em;
+}
+.button {
+    margin-top: 1em;
+    margin-right: 1em;
+    width: 10em;
+}
+.validator {
+    font-size: 95%;
+    color: red;
+    margin-left: 1em;
+}
+.result {
+    font-weight: bold;
+}
+.label {
+    text-align: right;
+    
+}
+
+#lblMessage {
+    color: green;
+}
